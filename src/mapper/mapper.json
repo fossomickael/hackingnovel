@@ -1,5 +1,5 @@
 { 
-   "chap1" :
+   "chap1-en" :
    { 
     "validation": null, 
     "files": null,
@@ -11,7 +11,7 @@
       "files": null,
       "typed": "$ ls^100 <br>  `cutecat.txt secrets.txt<br>` $ cat cutecat.txt<br>^100 `  /\\_/\\ <br>( o.o ) <br> > ^ <` "
     },
-    "chap3":
+    "chap3-en":
     {
       "validation": "password1234",
       "files":[
@@ -19,7 +19,7 @@
         {"name":"secrets.txt","content": "jeffsmith@evilcorp.com password:Iloveb@guettes45"}
         ]
     },
-     "chap4" :
+     "chap4-en" :
     {
       "validation": "ssh",
       "files": null,
